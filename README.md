@@ -1,3 +1,3 @@
 # very_Simple_Roguelike_Cpp
 
-learning C++ by making an very_Simple_Roguelike game.<br>
+Learning C++ by making a very simple roguelike game from scratch on my own.<br>
